@@ -155,6 +155,27 @@ sieci (internetowa) – adresacja logiczna i zarządzanie trasowaniem, wybór na
 
 fizyczna – fizyczne połączenie i transmisja danych przez medium transmisyjne (przewody, światłowody, fale radiowe (napięcia elektryczne,poziomy sygnałów, częstotliwość, metody kodowania), topologie;
 
+
+
+**Najczęstsze ataki w zależności od warstwy:**
+
+\- aplikacji – phishing i email, łamanie haseł, przepełnienie bufora, SQL injection
+
+\- prezentacji – wstrzykiwanie kodu, dołączanie plików, phishing
+
+\- sesji – przejęcie sesji, malware, XSS
+
+\- transportowa – skanowanie portów, DDoS
+
+\- sieciowa – man in the middle
+
+\- łącza danych - spoofing
+
+\- fizyczna - sniffing
+
+\
+
+
 \
 
 
