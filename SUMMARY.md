@@ -7,4 +7,4 @@
 * [SQL Injection](sql-injection.md)
 * [Free resources - links](free-resources-links.md)
 * [Cyberbezpieczeństwo](cyberbezpieczenstwo.md)
-* [LAB: Nessus Vulnerability Management](lab-nessus-vulnerability-management.md)
+* [LAB: Nessus Vulnerability Management in Windows10](lab-nessus-vulnerability-management-in-windows10.md)
