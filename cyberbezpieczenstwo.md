@@ -1,3 +1,7 @@
+---
+description: ISC2 prep
+---
+
 # Cyberbezpieczeństwo
 
 **CIA triad** - Confidentiality, Integrity, and Availability (_Poufność, integralność i dostępność_)
