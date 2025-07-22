@@ -11,3 +11,4 @@
 * [Burp Suite - Web Security Academy](burp-suite-web-security-academy.md)
 * [AppSec - questions & answers](appsec-questions-and-answers.md)
 * [LAB: Hashcat](lab-hashcat.md)
+* [LAB: Wireshark TLS handshake](lab-wireshark-tls-handshake.md)
