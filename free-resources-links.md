@@ -1,5 +1,11 @@
 # Free resources - links
 
+CompTia SECURITY+ practice tests: [https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
+
+
+
+
+
 TOOLS:
 
 [https://r00m101.com/tools](https://r00m101.com/tools)
