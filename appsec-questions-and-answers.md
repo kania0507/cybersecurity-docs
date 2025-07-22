@@ -186,7 +186,15 @@ IDOR może prowadzić do:
 
 
 
+<mark style="background-color:blue;">Zadanie4\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</mark>
 
+Jaka jest różnica między kodowaniem, szyfrowaniem i haszowaniem?\
+\
+**Kodowanie** to proces przesyłania danych z jednego formatu do drugiego z zachowaniem ich integralności. Jeśli znany jest <mark style="background-color:yellow;">algorytm</mark> kodowania, każdy może zdekodować oryginalne dane.
+
+**Szyfrowanie** to proces kodowania danych tak, aby mogły być odczytane tylko przez osobę posiadającą prawidłowy <mark style="background-color:yellow;">klucz deszyfrujący</mark>. Nawet jeśli znany jest algorytm kodowania, nieautoryzowani użytkownicy nie będą mogli odszyfrować danych.
+
+**Haszowanie** to proces konwersji danych na liczbę (zwaną haszem) o stałym rozmiarze (np. 256 bitów), tak aby te same dane dawały tę samą liczbę. Można to wykorzystać do weryfikacji, czy użytkownik zna dane początkowe, bez konieczności znajomości samych danych (np. hasła do logowania). Proces ten jest <mark style="background-color:yellow;">nieodwracalny</mark> i w przypadku dobrych algorytmów haszujących znalezienie dwóch zestawów danych dających ten sam hasz powinno być trudne.
 
 
 
