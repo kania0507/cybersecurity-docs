@@ -7,8 +7,11 @@
 * [SQL Injection](sql-injection.md)
 * [Free resources - links](free-resources-links.md)
 * [Cyberbezpieczeństwo](cyberbezpieczenstwo.md)
-* [LAB: Nessus Vulnerability Management in Windows10](lab-nessus-vulnerability-management-in-windows10.md)
 * [Burp Suite - Web Security Academy](burp-suite-web-security-academy.md)
 * [AppSec - questions & answers](appsec-questions-and-answers.md)
-* [LAB: Hashcat](lab-hashcat.md)
-* [LAB: Wireshark TLS handshake](lab-wireshark-tls-handshake.md)
+
+## LABS
+
+* [LAB: Wireshark TLS handshake](labs/lab-wireshark-tls-handshake.md)
+* [LAB: Hashcat](labs/lab-hashcat.md)
+* [LAB: Nessus Vulnerability Management in Windows10](labs/lab-nessus-vulnerability-management-in-windows10.md)
