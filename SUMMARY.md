@@ -20,3 +20,7 @@
 
 * [All notes](tryhackme/thm.md)
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
+
+***
+
+* [CompTia Sec+ acronims](comptia-sec+-acronims.md)
