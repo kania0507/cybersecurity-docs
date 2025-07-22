@@ -135,6 +135,61 @@ Zidentyfikuj potencjalne luki bezpieczeństwa w tym kodzie oraz zaproponuj konkr
 
 
 
+<mark style="background-color:blue;">Zadanie3\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_</mark>
+
+**Wyjaśnij co oznacza IDOR?**
+
+Słowo **"IDOR"** to skrót od **Insecure Direct Object Reference**, czyli **"niebezpieczne bezpośrednie odwołanie do obiektu"**.
+
+#### Co to jest IDOR?
+
+IDOR to rodzaj podatności bezpieczeństwa, która występuje wtedy, gdy aplikacja umożliwia dostęp do danych (np. plików, rekordów w bazie danych, kont innych użytkowników) na podstawie identyfikatora (np. numeru ID), **bez sprawdzania, czy użytkownik ma do nich uprawnienia**.
+
+#### Przykład IDOR:
+
+Załóżmy, że masz adres URL:
+
+```
+https://example.com/profile?user_id=123
+```
+
+Jeśli zmienisz `user_id=123` na `user_id=124` i strona pokaże ci dane innego użytkownika, to oznacza, że występuje podatność IDOR — aplikacja nie weryfikuje, czy masz prawo zobaczyć te dane.
+
+#### Dlaczego to groźne?
+
+IDOR może prowadzić do:
+
+* kradzieży danych osobowych,
+* modyfikacji danych innych użytkowników,
+* naruszeń prywatności,
+* eskalacji uprawnień.
+
+#### Jak się chronić?
+
+* Stosuj kontrolę dostępu na poziomie serwera.
+* Nie polegaj tylko na ukrywaniu ID w linkach.
+* Używaj losowych identyfikatorów (UUID) zamiast prostych ID.
+* Przeprowadzaj regularne testy bezpieczeństwa (np. pentesty).
+
+<table data-header-hidden><thead><tr><th width="373"></th><th></th></tr></thead><tbody><tr><td><strong>1. Uwierzytelnienie</strong></td><td>Zidentyfikuj użytkownika (sesja, token)</td></tr><tr><td><p></p><ul><li>Po zalogowaniu przypisz identyfikator użytkownika do sesji.</li><li>W kolejnych żądaniach korzystaj z tego identyfikatora, a nie z danych przekazanych w URL.</li></ul></td><td></td></tr></tbody></table>
+
+| **2. Autoryzacja**                                                                                                      | Sprawdź, czy użytkownik ma prawo do zasobu |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+|  jeśli użytkownik próbuje pobrać dane innego użytkownika (`user_id_z_url` != `user_id_z_sesji`), serwer blokuje dostęp. |                                            |
+
+| **3. Logika biznesowa**                                                                                                                                                                                                                                                                                                     | Wykonaj operację tylko jeśli uprawnienia są OK |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| <p></p><p>W bardziej rozbudowanych aplikacjach zamiast tylko porównywać ID, stosuje się role, np.:</p><ul><li><strong>Admin</strong> — może wszystko,</li><li><strong>Użytkownik</strong> — może zobaczyć tylko swoje dane,</li><li><strong>Moderator</strong> — może zobaczyć dane określonych użytkowników itp.</li></ul> |                                                |
+
+| **4. Ochrona ID** | Używaj trudnych do odgadnięcia ID |
+| ----------------- | --------------------------------- |
+
+
+
+
+
+
+
 
 
 _w trakcie.._
