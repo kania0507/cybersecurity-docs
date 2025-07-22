@@ -2,7 +2,6 @@
 
 * [Etyczny hacking](README.md)
 * [OSINT](osint.md)
-* [THM](thm.md)
 * [Webscrapping](webscrapping.md)
 * [SQL Injection](sql-injection.md)
 * [Free resources - links](free-resources-links.md)
@@ -19,3 +18,11 @@
 ***
 
 * [CompTia Sec+ prep](comptia-sec+-prep.md)
+
+## THM
+
+* [All notes](thm/thm.md)
+
+***
+
+* [Basic Pentesting](basic-pentesting.md)
