@@ -8,6 +8,8 @@ description: Simple tests
 
 > hashcat -m 500 -a 0 hash.txt rockyou.txt
 
+**RESULT**
+
 hashcat (v6.2.6) starting
 
 Successfully initialized the NVIDIA main driver CUDA runtime library.
