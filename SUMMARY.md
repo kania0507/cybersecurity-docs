@@ -1,12 +1,12 @@
 # Table of contents
 
-* [AppSec - questions & answers](README.md)
-* [CompTia Sec+ prep](comptia-sec+-prep.md)
+* [CompTia Sec+ prep](README.md)
 * [Cyberbezpieczeństwo](cyberbezpieczenstwo.md)
 * [Etyczny hacking](<README (1).md>)
 * [Free resources - links](free-resources-links.md)
 * [OSINT](osint.md)
 * [Webscrapping](webscrapping.md)
+* [AppSec - questions & answers](<README (2).md>)
 
 ## LABS
 
