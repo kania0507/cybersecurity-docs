@@ -32,7 +32,7 @@ Which of the following answers refers to a network security solution providing a
 
 * &#x20;IDP
 * &#x20;AV
-* &#x20;<mark style="color:yellow;">**UTM**</mark>
+* &#x20;<mark style="color:yellow;">**UTM -**</mark> Unified (ujednolicony) threat management
 * &#x20;NGFW
 
 A WAP is a specific type of AP that is used to create WLANs.
