@@ -22,7 +22,4 @@
 ## THM
 
 * [All notes](thm/thm.md)
-
-***
-
-* [Basic Pentesting](basic-pentesting.md)
+* [Basic Pentesting](thm/basic-pentesting.md)
