@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CompTia Sec+ prep](README.md)
+* [CompTia Sec+ acronims](comptia-sec+-acronims.md)
 * [Cyberbezpieczeństwo](cyberbezpieczenstwo.md)
 * [Etyczny hacking](<README (1).md>)
 * [Free resources - links](free-resources-links.md)
@@ -20,7 +21,3 @@
 
 * [All notes](tryhackme/thm.md)
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
-
-***
-
-* [CompTia Sec+ acronims](comptia-sec+-acronims.md)
