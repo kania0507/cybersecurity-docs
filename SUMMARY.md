@@ -16,7 +16,7 @@
 * [LAB: Hashcat](labs/lab-hashcat.md)
 * [LAB: Nessus Vulnerability Management in Windows10](labs/lab-nessus-vulnerability-management-in-windows10.md)
 
-## THM
+## TryHackMe
 
-* [All notes](thm/thm.md)
-* [Basic Pentesting](thm/basic-pentesting.md)
+* [All notes](tryhackme/thm.md)
+* [Basic Pentesting](tryhackme/basic-pentesting.md)
