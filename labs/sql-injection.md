@@ -1,6 +1,6 @@
 # LAB:SQL Injection
 
-Demo page: [https://demo.testfire.net/index.jsp](https://demo.testfire.net/index.jsp)
+* Demo page: [https://demo.testfire.net/index.jsp](https://demo.testfire.net/index.jsp)
 
 Login with:&#x20;
 
@@ -9,7 +9,7 @@ Login with:&#x20;
 
 
 
-**DVWA**
+* **DVWA**
 
 'or' 1=1
 
