@@ -17,6 +17,7 @@
 * [LAB: Wireshark TLS handshake](labs/lab-wireshark-tls-handshake.md)
 * [LAB: Burp Suite - Web Security Academy](labs/lab-burp-suite-web-security-academy.md)
 * [LAB: DVWA Command Injection](labs/lab-dvwa-command-injection.md)
+* [LAB: DVWA Upload](labs/lab-dvwa-upload.md)
 
 ## TryHackMe
 
