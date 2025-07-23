@@ -23,3 +23,7 @@
 
 * [All notes](tryhackme/thm.md)
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
+
+***
+
+* [LAB: DVWA XSS DOM](lab-dvwa-xss-dom.md)
