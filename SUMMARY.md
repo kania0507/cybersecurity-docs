@@ -18,6 +18,7 @@
 * [LAB: Burp Suite - Web Security Academy](labs/lab-burp-suite-web-security-academy.md)
 * [LAB: DVWA Command Injection](labs/lab-dvwa-command-injection.md)
 * [LAB: DVWA Upload](labs/lab-dvwa-upload.md)
+* [LAB: DVWA XSS DOM](labs/lab-dvwa-xss-dom.md)
 
 ## TryHackMe
 
@@ -26,4 +27,4 @@
 
 ***
 
-* [LAB: DVWA XSS DOM](lab-dvwa-xss-dom.md)
+* [LAB: DVWA Remote File Inclusion](lab-dvwa-remote-file-inclusion.md)
