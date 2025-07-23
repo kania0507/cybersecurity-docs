@@ -19,6 +19,7 @@
 * [LAB: DVWA Command Injection](labs/lab-dvwa-command-injection.md)
 * [LAB: DVWA Upload](labs/lab-dvwa-upload.md)
 * [LAB: DVWA XSS DOM](labs/lab-dvwa-xss-dom.md)
+* [LAB: DVWA Remote File Inclusion](labs/lab-dvwa-remote-file-inclusion.md)
 
 ## TryHackMe
 
@@ -27,4 +28,4 @@
 
 ***
 
-* [LAB: DVWA Remote File Inclusion](lab-dvwa-remote-file-inclusion.md)
+* [LAB: DVWA XSS Stored](lab-dvwa-xss-stored.md)
