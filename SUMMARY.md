@@ -13,19 +13,17 @@
 
 * [LAB: Hashcat](labs/lab-hashcat.md)
 * [LAB: Nessus Vulnerability Management in Windows10](labs/lab-nessus-vulnerability-management-in-windows10.md)
-* [LAB: DVWA SQL Injection](labs/sql-injection.md)
 * [LAB: Wireshark TLS handshake](labs/lab-wireshark-tls-handshake.md)
 * [LAB: Burp Suite - Web Security Academy](labs/lab-burp-suite-web-security-academy.md)
+* [LAB: DVWA SQL Injection](labs/sql-injection.md)
 * [LAB: DVWA Command Injection](labs/lab-dvwa-command-injection.md)
 * [LAB: DVWA Upload](labs/lab-dvwa-upload.md)
 * [LAB: DVWA XSS DOM](labs/lab-dvwa-xss-dom.md)
 * [LAB: DVWA Remote File Inclusion](labs/lab-dvwa-remote-file-inclusion.md)
+* [LAB: DVWA XSS Stored](labs/lab-dvwa-xss-stored.md)
+* [LAB: DVWA XSS Reflected](labs/lab-dvwa-xss-reflected.md)
 
 ## TryHackMe
 
 * [All notes](tryhackme/thm.md)
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
-
-***
-
-* [LAB: DVWA XSS Stored](lab-dvwa-xss-stored.md)
