@@ -28,3 +28,7 @@
 
 * [All notes](tryhackme/thm.md)
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
+
+***
+
+* [LAB: DVWA CSRF](lab-dvwa-csrf.md)
