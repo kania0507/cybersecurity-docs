@@ -23,6 +23,7 @@
 * [LAB: DVWA XSS Stored](labs/lab-dvwa-xss-stored.md)
 * [LAB: DVWA XSS Reflected](labs/lab-dvwa-xss-reflected.md)
 * [LAB: DVWA Brute Force](labs/lab-dvwa-brute-force.md)
+* [LAB: DVWA CSRF](labs/lab-dvwa-csrf.md)
 
 ## TryHackMe
 
@@ -31,4 +32,4 @@
 
 ***
 
-* [LAB: DVWA CSRF](lab-dvwa-csrf.md)
+* [CompTia Sec+ treats, atacks and vulnerabilities](comptia-sec+-treats-atacks-and-vulnerabilities.md)
