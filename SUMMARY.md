@@ -22,6 +22,7 @@
 * [LAB: DVWA Remote File Inclusion](labs/lab-dvwa-remote-file-inclusion.md)
 * [LAB: DVWA XSS Stored](labs/lab-dvwa-xss-stored.md)
 * [LAB: DVWA XSS Reflected](labs/lab-dvwa-xss-reflected.md)
+* [LAB: DVWA Brute Force](labs/lab-dvwa-brute-force.md)
 
 ## TryHackMe
 
