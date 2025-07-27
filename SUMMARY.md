@@ -28,6 +28,7 @@
 * [LAB: DVWA CSRF](labs/lab-dvwa-csrf.md)
 * [LAB: własny SOC, Wazuh](labs/lab-wlasny-soc-wazuh.md)
 * [LAB: Pentesty aplikacji webowej (sklepu int)](labs/lab-pentesty-aplikacji-webowej-sklepu-int.md)
+* [LAB: Frameworki detekcji](labs/lab-frameworki-detekcji.md)
 
 ## TryHackMe
 
@@ -35,7 +36,3 @@
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
 * [Pentesting Fundamentals](tryhackme/pentesting-fundamentals.md)
 * [TryHackMe Walkthrough: Intro to SIEM](tryhackme/tryhackme-walkthrough-intro-to-siem.md)
-
-***
-
-* [Frameworki detekcji](frameworki-detekcji.md)
