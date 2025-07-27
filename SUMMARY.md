@@ -9,6 +9,7 @@
 * [OSINT](osint.md)
 * [Webscrapping](webscrapping.md)
 * [AppSec - questions & answers](<README (2).md>)
+* [SOC - questions & answers](soc-questions-and-answers.md)
 
 ## LABS
 
