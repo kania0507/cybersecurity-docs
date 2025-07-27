@@ -31,3 +31,7 @@
 * [All notes](tryhackme/thm.md)
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
 * [Pentesting Fundamentals](tryhackme/pentesting-fundamentals.md)
+
+***
+
+* [LAB: własny SOC, Wazuh](lab-wlasny-soc-wazuh.md)
