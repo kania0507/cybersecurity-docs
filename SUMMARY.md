@@ -38,3 +38,4 @@
 ***
 
 * [Frameworki](frameworki.md)
+* [LAB: Pentesty aplikacji webowej (sklepu int)](lab-pentesty-aplikacji-webowej-sklepu-int.md)
