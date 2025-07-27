@@ -36,3 +36,7 @@
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
 * [Pentesting Fundamentals](tryhackme/pentesting-fundamentals.md)
 * [TryHackMe Walkthrough: Intro to SIEM](tryhackme/tryhackme-walkthrough-intro-to-siem.md)
+
+***
+
+* [CompTia Sec+ prep - my quiz](comptia-sec+-prep-my-quiz.md)
