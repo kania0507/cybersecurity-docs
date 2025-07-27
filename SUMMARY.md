@@ -27,6 +27,7 @@
 * [LAB: DVWA Brute Force](labs/lab-dvwa-brute-force.md)
 * [LAB: DVWA CSRF](labs/lab-dvwa-csrf.md)
 * [LAB: własny SOC, Wazuh](labs/lab-wlasny-soc-wazuh.md)
+* [LAB: Pentesty aplikacji webowej (sklepu int)](labs/lab-pentesty-aplikacji-webowej-sklepu-int.md)
 
 ## TryHackMe
 
@@ -37,5 +38,4 @@
 
 ***
 
-* [Frameworki](frameworki.md)
-* [LAB: Pentesty aplikacji webowej (sklepu int)](lab-pentesty-aplikacji-webowej-sklepu-int.md)
+* [Frameworki detekcji](frameworki-detekcji.md)
