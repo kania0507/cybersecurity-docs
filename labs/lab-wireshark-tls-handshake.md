@@ -18,4 +18,6 @@ Filtering:
 | **SSDP**    | Simple Service Discovery Protocol                          | Used in UPnP for device discovery           |
 | **ARP**     | Address Resolution Protocol                                | Resolves MAC addresses from IP addresses    |
 | **DHCPv6**  | Dynamic Host Configuration Protocol for IPv6               | Assigns IPv6 addresses dynamically          |
-| **TLSv1.3** | Transport Layer Security v1.3 (newer)                      | More secure, shorter handshake              |
+| **TLSv1.3** | Transport Layer Security v1.3 (newer)                      | **More secure, shorter handshake**          |
+
+<figure><img src="../.gitbook/assets/Figure-3-TLS-1-3-Handshake.png" alt=""><figcaption></figcaption></figure>
