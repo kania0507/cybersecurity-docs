@@ -20,16 +20,6 @@
 * [LAB: Hashcat](labs/lab-hashcat.md)
 * [LAB: Nessus Vulnerability Management in Windows10](labs/lab-nessus-vulnerability-management-in-windows10.md)
 * [LAB: Wireshark TLS handshake](labs/lab-wireshark-tls-handshake.md)
-* [LAB: Burp Suite - Web Security Academy](labs/lab-burp-suite-web-security-academy.md)
-* [LAB: DVWA SQL Injection](labs/sql-injection.md)
-* [LAB: DVWA Command Injection](labs/lab-dvwa-command-injection.md)
-* [LAB: DVWA Upload](labs/lab-dvwa-upload.md)
-* [LAB: DVWA XSS DOM](labs/lab-dvwa-xss-dom.md)
-* [LAB: DVWA Remote File Inclusion](labs/lab-dvwa-remote-file-inclusion.md)
-* [LAB: DVWA XSS Stored](labs/lab-dvwa-xss-stored.md)
-* [LAB: DVWA XSS Reflected](labs/lab-dvwa-xss-reflected.md)
-* [LAB: DVWA Brute Force](labs/lab-dvwa-brute-force.md)
-* [LAB: DVWA CSRF](labs/lab-dvwa-csrf.md)
 * [LAB: własny SOC, Wazuh](labs/lab-wlasny-soc-wazuh.md)
 * [LAB: Pentesty aplikacji webowej (sklepu int)](labs/lab-pentesty-aplikacji-webowej-sklepu-int.md)
 * [LAB: Frameworki detekcji](labs/lab-frameworki-detekcji.md)
@@ -41,3 +31,20 @@
 * [Pentesting Fundamentals](tryhackme/pentesting-fundamentals.md)
 * [TryHackMe Walkthrough: Intro to SIEM](tryhackme/tryhackme-walkthrough-intro-to-siem.md)
 * [Easy peasy CTF](tryhackme/easy-peasy-ctf.md)
+
+## Burp Suite Academy
+
+* [LAB: Burp Suite - Web Security Academy](burp-suite-academy/lab-burp-suite-web-security-academy.md)
+* [Authentication vulnerabilities - Lab: Username enumeration via different responses](burp-suite-academy/authentication-vulnerabilities-lab-username-enumeration-via-different-responses.md)
+
+## DVWA
+
+* [LAB: DVWA CSRF](dvwa/lab-dvwa-csrf.md)
+* [LAB: DVWA Brute Force](dvwa/lab-dvwa-brute-force.md)
+* [LAB: DVWA XSS Reflected](dvwa/lab-dvwa-xss-reflected.md)
+* [LAB: DVWA Upload](dvwa/lab-dvwa-upload.md)
+* [LAB: DVWA XSS DOM](dvwa/lab-dvwa-xss-dom.md)
+* [LAB: DVWA Command Injection](dvwa/lab-dvwa-command-injection.md)
+* [LAB: DVWA SQL Injection](dvwa/sql-injection.md)
+* [LAB: DVWA Remote File Inclusion](dvwa/lab-dvwa-remote-file-inclusion.md)
+* [LAB: DVWA XSS Stored](dvwa/lab-dvwa-xss-stored.md)
