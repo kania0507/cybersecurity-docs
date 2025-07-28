@@ -1,15 +1,19 @@
 # Table of contents
 
-* [CompTia Sec+ prep](README.md)
-* [CompTia Sec+ acronims](comptia-sec+-acronims.md)
-* [CompTia Sec+ treats, atacks and vulnerabilities](comptia-sec+-treats-atacks-and-vulnerabilities.md)
-* [Cyberbezpieczeństwo](cyberbezpieczenstwo.md)
+* [Cyberbezpieczeństwo](README.md)
 * [Etyczny hacking](<README (1).md>)
 * [Free resources - links](free-resources-links.md)
 * [OSINT](osint.md)
 * [Webscrapping](webscrapping.md)
 * [AppSec - questions & answers](<README (2).md>)
 * [SOC - questions & answers](soc-questions-and-answers.md)
+
+## CompTia Sec+
+
+* [CompTia Sec+ treats, atacks and vulnerabilities](comptia-sec+/comptia-sec+-treats-atacks-and-vulnerabilities.md)
+* [CompTia Sec+ prep](comptia-sec+/comptia-sec+-prep.md)
+* [CompTia Sec+ acronims](comptia-sec+/comptia-sec+-acronims.md)
+* [CompTia Sec+ prep - my quiz](comptia-sec+/comptia-sec+-prep-my-quiz.md)
 
 ## LABS
 
@@ -36,7 +40,4 @@
 * [Basic Pentesting](tryhackme/basic-pentesting.md)
 * [Pentesting Fundamentals](tryhackme/pentesting-fundamentals.md)
 * [TryHackMe Walkthrough: Intro to SIEM](tryhackme/tryhackme-walkthrough-intro-to-siem.md)
-
-***
-
-* [CompTia Sec+ prep - my quiz](comptia-sec+-prep-my-quiz.md)
+* [Easy peasy CTF](tryhackme/easy-peasy-ctf.md)
