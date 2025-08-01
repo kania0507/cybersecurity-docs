@@ -15,3 +15,9 @@ description: >-
 Admin panel URL: /admin-46g525
 
 3. Load the admin panel and delete `carlos`.
+
+
+
+[https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality](https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
