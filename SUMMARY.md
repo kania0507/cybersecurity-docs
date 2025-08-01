@@ -36,6 +36,7 @@
 
 * [LAB: Burp Suite - Web Security Academy](burp-suite-academy/lab-burp-suite-web-security-academy.md)
 * [Authentication vulnerabilities - Lab: Username enumeration via different responses](burp-suite-academy/authentication-vulnerabilities-lab-username-enumeration-via-different-responses.md)
+* [Lab: Burp Suite - Unprotected admin functionality with unpredictable URL](burp-suite-academy/lab-burp-suite-unprotected-admin-functionality-with-unpredictable-url.md)
 
 ## DVWA
 
@@ -48,3 +49,7 @@
 * [LAB: DVWA SQL Injection](dvwa/sql-injection.md)
 * [LAB: DVWA Remote File Inclusion](dvwa/lab-dvwa-remote-file-inclusion.md)
 * [LAB: DVWA XSS Stored](dvwa/lab-dvwa-xss-stored.md)
+
+***
+
+* [Authentication vulnerabilities Lab: Username enumeration via subtly different responses](authentication-vulnerabilities-lab-username-enumeration-via-subtly-different-responses.md)
