@@ -14,6 +14,7 @@
 * [CompTia Sec+ prep](comptia-sec+/comptia-sec+-prep.md)
 * [CompTia Sec+ acronims](comptia-sec+/comptia-sec+-acronims.md)
 * [CompTia Sec+ prep - my quiz](comptia-sec+/comptia-sec+-prep-my-quiz.md)
+* [CompTia Sec+ prep - my quiz 2](comptia-sec+/comptia-sec+-prep-my-quiz-2.md)
 
 ## LABS
 
@@ -53,3 +54,4 @@
 ***
 
 * [Authentication vulnerabilities Lab: Username enumeration via subtly different responses](authentication-vulnerabilities-lab-username-enumeration-via-subtly-different-responses.md)
+* [Lab: Burp Suite  - User role controlled by request parameter](lab-burp-suite-user-role-controlled-by-request-parameter.md)
