@@ -56,3 +56,4 @@
 
 * [Authentication vulnerabilities Lab: Username enumeration via subtly different responses](authentication-vulnerabilities-lab-username-enumeration-via-subtly-different-responses.md)
 * [Lab: Burp Suite  - User role controlled by request parameter](lab-burp-suite-user-role-controlled-by-request-parameter.md)
+* [NTP vs NTS](ntp-vs-nts.md)
