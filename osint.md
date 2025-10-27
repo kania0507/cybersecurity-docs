@@ -1,5 +1,11 @@
 # OSINT
 
+[OSINT BOOKMARKS](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)&#x20;
+
+[OSINT FRAMEWORK](https://osintframework.pl/)
+
+
+
 Scrapping – pobieranie danych ze stron i wyodrebnianie informacji.
 
 Metadane – informacje o danych (autor, data utworzenia, format pliku, lokalizacja itp.)
