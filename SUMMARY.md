@@ -59,3 +59,4 @@
 * [Lab: Burp Suite  - User role controlled by request parameter](lab-burp-suite-user-role-controlled-by-request-parameter.md)
 * [NTP vs NTS](ntp-vs-nts.md)
 * [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
+* [Zagrożenia związane z bezpieczeństwem IT](zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
