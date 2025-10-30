@@ -5,6 +5,7 @@
 * [Free resources - links](free-resources-links.md)
 * [OSINT](osint.md)
 * [Webscrapping](webscrapping.md)
+* [Cryptographic](cryptographic.md)
 * [AppSec - questions & answers](<README (2).md>)
 * [SOC - questions & answers](soc-questions-and-answers.md)
 
