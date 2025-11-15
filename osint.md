@@ -4,6 +4,8 @@
 
 [OSINT FRAMEWORK](https://osintframework.pl/)
 
+[OSINTHANDBOOK](https://www.osinthandbook.com/)
+
 
 
 Scrapping – pobieranie danych ze stron i wyodrebnianie informacji.
