@@ -10,6 +10,8 @@
 
 [WHOIS](https://whois.domaintools.com/)
 
+[wegohere](https://wego.here.com/)
+
 
 
 Scrapping – pobieranie danych ze stron i wyodrebnianie informacji.
