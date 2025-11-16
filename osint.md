@@ -6,6 +6,8 @@
 
 [OSINTHANDBOOK](https://www.osinthandbook.com/)
 
+[EXPLOIT DB](https://www.exploit-db.com/google-hacking-database)
+
 
 
 Scrapping – pobieranie danych ze stron i wyodrebnianie informacji.
