@@ -8,6 +8,8 @@
 
 [EXPLOIT DB](https://www.exploit-db.com/google-hacking-database)
 
+[WHOIS](https://whois.domaintools.com/)
+
 
 
 Scrapping – pobieranie danych ze stron i wyodrebnianie informacji.
