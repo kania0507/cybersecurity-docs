@@ -2,8 +2,7 @@
 
 _Web scraping_ to automatyczny proces pozyskiwania danych ze stron internetowych poprzez analizę ich struktury i ekstrakcję interesujących informacji.
 
-\
-
+<br>
 
 #### **7 „dobrych” praktyk** _Web scraping_**u**
 
@@ -19,8 +18,7 @@ Istnieją jednak wyjątki, w których można scrapować do woli, a następnie le
 
 
 
-NARZĘDZIA\
-
+NARZĘDZIA<br>
 
 **Puppeteer** to biblioteka automatyzacji przeglądarki dla Node. js, która umożliwia sterowanie przeglądarką za pomocą prostego i nowoczesnego interfejsu JavaScript API. Najważniejszym zadaniem przeglądarki jest oczywiście przeglądanie stron internetowych.
 
@@ -32,8 +30,7 @@ Puppeteer działa niezależnie od procesu przeglądarki, co umożliwia bezpieczn
 
 Przełączanie między trybami Headless i Headful : Aby zmniejszyć ryzyko wykrycia, przełączaj się między trybami Headless i Headful (z GUI). Dzięki temu Twoje działania związane ze scrapowaniem będą bardziej przypominać prawdziwe sesje przeglądania. Dostosowywanie agentów użytkownika: Witryny często wykrywają przeglądarki Headless, sprawdzając ciąg agenta użytkownika.
 
-\
-
+<br>
 
 **Playwright** oferuje wszechstronność i zaawansowane funkcje, szczególnie cenne w większych projektach wymagających wsparcia wielu przeglądarek. Puppeteer natomiast excaluje w projektach skoncentrowanych na Chrome, oferując prostotę i wydajność. Oba narzędzia są aktywnie rozwijane i regularnie wzbogacane o nowe funkcje.
 
@@ -48,8 +45,7 @@ laywright oferuje funkcje takie jak przechwytywanie zrzutów ekranu, generowanie
 Warto zwrócić uwagę na funkcję automatycznego oczekiwania w Playwright. Imituje ona (ludzkiego) użytkownika, czekając określoną ilość czasu po wypełnieniu formularza logowania i przed kliknięciem przycisku.
 
 \
-\
-
+<br>
 
 **Charles** Proxy (płatny), znany również jako Charles, to aplikacja proxy do debugowania sieci Web, używana przez programistów do przeglądania całego ruchu HTTP i SSL/HTTPS pomiędzy ich komputerem a Internetem .
 
@@ -58,20 +54,16 @@ Umożliwia użytkownikowi przeglądanie HTTP, HTTPS, HTTP / 2 i włącza ruch po
 Programiści front-end używają Charlesa do debugowania żądań AJAX, analizowania wywołań REST API i rozwiązywania problemów z komunikacją przeglądarka-serwer . Możliwość modyfikowania żądań pomaga testować różne scenariusze bez zmiany kodu aplikacji.
 
 \
-\
+<br>
 
-
-\
-
+<br>
 
 **Burp** Suite to autorskie narzędzie programowe służące do oceny bezpieczeństwa i testów penetracyjnych aplikacji internetowych.
 
 To zestaw narzędzi przeznaczonych do przeprowadzania testów bezpieczeństwa sieci. Podstawowa funkcjonalność obejmuje między innymi testowanie penetracyjne, analizę trafienia i włamań oraz systemy skanowania podatności, które automatycznie szukają zagrożeń.
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
+<br>

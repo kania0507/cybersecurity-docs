@@ -24,8 +24,7 @@ Dark web – część internetu, nie jest indeksowana przez wyszukiwarki, wymaga
 
 DeepWeb – cz. internetu nie jest publicznie dostępna, nie jest indeksowana, zawiera prywatne BD, chronione strony, płatne zasoby, np. prywatne sieci korporacyjne, zasoby naukowe.
 
-\
-
+<br>
 
 Bezpieczeństwo:
 
@@ -39,8 +38,7 @@ Bezpieczeństwo:
 
 \- bezpieczny komputer,
 
-\
-
+<br>
 
 VPN (Virtual Private Network) tunel, zadania:
 
@@ -54,8 +52,7 @@ VPN (Virtual Private Network) tunel, zadania:
 
 Proton VPN
 
-\
-
+<br>
 
 Maszyny wirtualne – osobny sys. Operacyjny i zasoby sprzętowe,
 
@@ -65,39 +62,33 @@ VirtualBox,
 
 Kali Linux – system linux z oprogramowaniem do testowania bezpieczeństwa.
 
-\
-
+<br>
 
 Temp-mail.org - tymczasowa skrzynka email
 
 Quackr.io – tymczasowa skrzynka SMS
 
-\
-
+<br>
 
 Wyszukiwarki internetowe
 
 intitle:”index of” ABBA
 
-\
-
+<br>
 
 RODO – gromadzenie i wykorzystwywanie czyiś danych osobowych jest nielegalne
 
 UE 2016/679
 
-\
-
+<br>
 
 DORKI – operatory wyszukiwarki, które pozwalaja na dostęp do baz, które nie powinny być dostepne.
 
-\
-
+<br>
 
 Exploit-db.com/google-hackinkg-database
 
-\
-
+<br>
 
 BING – ChatGPT4 \_ USA
 
@@ -107,15 +98,13 @@ YANDEX – Rosja
 
 DUCKDUCKGO.com – prywatnosc uzytkownika
 
-\
-
+<br>
 
 TinEye.com – wyszukiwarka zdjęć
 
 pimeyes.com – face search engine, ochrona wizerunku
 
-\
-
+<br>
 
 PUBLICZNE REJESTRY:
 
@@ -127,8 +116,7 @@ sudop.uokik.gov.pl
 
 ekrs.ms.gov.pl = wyszukiwarka krs oraz przegladarka dokumentow finansowych
 
-\
-
+<br>
 
 Rejestry osob wykonujacyh zawod:
 
@@ -148,8 +136,7 @@ komornik.pl
 
 notaries-directory.eu/pl
 
-\
-
+<br>
 
 Rejestr dluznikow: dlugi.info
 
@@ -165,32 +152,24 @@ BIP
 
 informacjapuBLICZNA.ORG
 
-\
-
+<br>
 
 ART. 61 KONSTYTUCJI
 
-\
-
+<br>
 
 BIP.CHELMNO.UG.GOV.PL
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
-
-\
-
-
-\
+<br>

@@ -10,18 +10,15 @@ Confidentiality (POUFNOŚĆ) - umożliwianie autoryzowanego dostępu do informac
 
 Integrity (INTEGRALNOŚĆ) – właściwość informacji, zgodnie z którą jest ona rejestrowana, wykorzystywana i utrzymywana w sposób zapewniający jej kompletność, dokładność, wewnętrzną spójność i użyteczność dla określonego celu.
 
-Availability (DOSTĘPNOŚĆ) – systemy i dane są dostępne w momencie, gdy użytkownicy ich potrzebują.\
+Availability (DOSTĘPNOŚĆ) – systemy i dane są dostępne w momencie, gdy użytkownicy ich potrzebują.<br>
 
-
-Cel wdrażania kontroli bezpieczeństwa w procesie zarządzania ryzykiem: Aby ograniczyć ryzyko do akceptowalnego poziomu.\
-
+Cel wdrażania kontroli bezpieczeństwa w procesie zarządzania ryzykiem: Aby ograniczyć ryzyko do akceptowalnego poziomu.<br>
 
 Wektor ataku to konkretna droga, którą przestępca wykorzystuje, aby dostać się do systemu lub sieci i wyrządzić szkodę. Obejmuje on konkretną metodę lub technikę, którą atakujący wykorzystuje do wykorzystania słabych punktów, podczas gdy "powierzchnia ataku" to zbiór wszystkich potencjalnych punktów wejścia lub luk w zabezpieczeniach.
 
 
 
-Personally Identifiable Information (PII) (Informacje umożliwiające identyfikację osoby) - informacji, które w połączeniu z innymi danymi znacząco zawężają możliwość powiązania ich z większą liczbą osób.\
-
+Personally Identifiable Information (PII) (Informacje umożliwiające identyfikację osoby) - informacji, które w połączeniu z innymi danymi znacząco zawężają możliwość powiązania ich z większą liczbą osób.<br>
 
 **Zarządzanie ryzykiem**, terminologia:\
 ● Zasób (ASSET) to coś, co wymaga ochrony.\
@@ -34,11 +31,9 @@ General Data Protection Regulation (GDPR) - rozporządzenie zapewnia ochronę da
 
 W świecie cyberbezpieczeństwa identyfikacja zagrożeń nie jest czynnością jednorazową. Pracownicy na wszystkich szczeblach organizacji są odpowiedzialni za identyfikację ryzyka. Identyfikuj ryzyko, aby się przed nim chronić.
 
-Specjaliści ds. bezpieczeństwa będą prawdopodobnie _pomagać w ocenie ryzyka_ na poziomie systemowym, koncentrując się na procesach, kontroli, monitorowaniu lub reagowaniu na incydenty i działaniach odzyskiwania.\
+Specjaliści ds. bezpieczeństwa będą prawdopodobnie _pomagać w ocenie ryzyka_ na poziomie systemowym, koncentrując się na procesach, kontroli, monitorowaniu lub reagowaniu na incydenty i działaniach odzyskiwania.<br>
 
-
-Kontrole bezpieczeństwa odnoszą się do mechanizmów fizycznych, technicznych i administracyjnych, które działają jako zabezpieczenia lub środki zaradcze, chroniące poufność, integralność i dostępność systemu oraz jego informacji. Wdrożenie kontroli powinno ograniczyć ryzyko do akceptowalnego poziomu.\
-
+Kontrole bezpieczeństwa odnoszą się do mechanizmów fizycznych, technicznych i administracyjnych, które działają jako zabezpieczenia lub środki zaradcze, chroniące poufność, integralność i dostępność systemu oraz jego informacji. Wdrożenie kontroli powinno ograniczyć ryzyko do akceptowalnego poziomu.<br>
 
 AUTENTYKACJA
 

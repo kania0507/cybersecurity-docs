@@ -2,18 +2,16 @@
 description: Notatki z TryHackMe
 ---
 
-# THM
+# All notes
 
 ```
 Gobuster to narzędzie programowe do brutalnego wymuszania katalogów na serwerach WWW 
 gobuster -u http://fakebank.thm -w wordlist.txt dir
 ```
 
-\
+<br>
 
-
-\
-
+<br>
 
 Do zadań związanych z bezpieczeństwem obronnym zalicza się m.in.:
 
@@ -23,11 +21,9 @@ Do zadań związanych z bezpieczeństwem obronnym zalicza się m.in.:
 * Konfigurowanie urządzeń zabezpieczających zapobiegawczo: zapory sieciowe i systemy zapobiegania włamaniom ( IPS ) są krytycznymi składnikami zabezpieczeń zapobiegawczych. Zapory sieciowe kontrolują, jaki ruch sieciowy może wejść do systemu lub sieci, a jaki może go opuścić. IPS blokuje cały ruch sieciowy, który pasuje do obecnych reguł i sygnatur ataków.
 * Konfigurowanie urządzeń rejestrujących i monitorujących: Prawidłowe rejestrowanie i monitorowanie sieci są niezbędne do wykrywania złośliwych działań i włamań. Jeśli w naszej sieci pojawi się nowe nieautoryzowane urządzenie, powinniśmy być w stanie je wykryć.
 
-\
+<br>
 
-
-\
-
+<br>
 
 Security _Operations Center_ ( SOC ) to zespół specjalistów od cyberbezpieczeństwa, który monitoruje sieć i jej systemy w celu wykrywania złośliwych zdarzeń cyberbezpieczeństwa. Niektóre z głównych obszarów zainteresowania SOC to:
 
@@ -38,14 +34,11 @@ Security _Operations Center_ ( SOC ) to zespół specjalistów od cyberbezpiecze
 
 Operacje bezpieczeństwa obejmują różne zadania mające na celu zapewnienie ochrony; jednym z takich zadań jest wykrywanie zagrożeń.
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
+<br>
 
 Cztery główne fazy procesu reagowania na incydenty to:
 
@@ -54,28 +47,21 @@ Cztery główne fazy procesu reagowania na incydenty to:
 3. Ograniczenie, eliminacja i odzyskiwanie: Po wykryciu incydentu kluczowe jest powstrzymanie go przed wpływem na inne systemy, wyeliminowanie go i odzyskanie dotkniętych nim systemów. Na przykład, gdy zauważymy, że system jest zainfekowany wirusem komputerowym, chcielibyśmy powstrzymać (ograniczyć) rozprzestrzenianie się wirusa na inne systemy, oczyścić (wyeliminować) wirusa i zapewnić prawidłowe odzyskiwanie systemu.
 4. Działania poincydentalne: Po pomyślnym odzyskaniu danych sporządzany jest raport, a wyciągnięte wnioski są udostępniane w celu zapobiegania podobnym incydentom w przyszłości.
 
-\
-
+<br>
 
 #### Kryminalistyka cyfrowa i reagowanie na incydenty ( DFIR )
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
-
-\
-
-
-\
-
-
-\
-
+<br>
 
 **Analiza złośliwego oprogramowania**
 
@@ -85,67 +71,55 @@ Malware oznacza malware software. _Oprogramowanie_ odnosi się do programów, do
 * Trojan Horse to program, który pokazuje jedną pożądaną funkcję, ale ukrywa pod spodem złośliwą funkcję. Na przykład ofiara może pobrać odtwarzacz wideo z podejrzanej witryny, co daje atakującemu pełną kontrolę nad systemem.
 * Ransomware to złośliwy program, który szyfruje pliki użytkownika. Szyfrowanie sprawia, że ​​pliki stają się nieczytelne bez znajomości hasła szyfrowania. Atakujący oferuje użytkownikowi hasło szyfrowania, jeśli użytkownik jest skłonny zapłacić „okup”.
 
-\
+<br>
 
 
 
-
-\
-
+<br>
 
 Netstat in Linux to ss = socket statistics
 
 netstat -lntu | grep 443
 
-\
-
+<br>
 
 &#x20;Shodan jest prawdopodobnie najlepszą wyszukiwarką do znajdowania podatnych systemów na urządzeniach, które są publicznie wystawione i nie są chronione . Jest powszechnie używany przez agencje ścigania. Możesz go również użyć do znajdowania urządzeń, które niedawno zostały podłączone do Internetu.
 
 Shodan działa poprzez skanowanie internetu w poszukiwaniu urządzeń podłączonych do sieci, zbierając dane takie jak adresy IP, banery usług, otwarte porty oraz inne szczegóły techniczne. Proces ten polega na regularnym przesyłaniu zapytań do urządzeń w celu uzyskania informacji o ich konfiguracji i stanie.
 
-\
-
+<br>
 
 Censys zapewnia analitykom ds. bezpieczeństwa widoczność i kontekst w Internecie, których potrzebują, aby szybko wykrywać incydenty i na nie reagować, identyfikować zdarzenia nietypowe oraz ustalać priorytety działań naprawczych.
 
-\
-
+<br>
 
 Shodan koncentruje się na urządzeniach i systemach podłączonych do Internetu, takich jak serwery, routery, kamery internetowe i urządzenia IoT. Censys z kolei koncentruje się na hostach podłączonych do Internetu, witrynach internetowych, certyfikatach i innych zasobach internetowych. Niektóre z jego przypadków użycia obejmują wyliczanie używanych domen, audytowanie otwartych portów i usług oraz wykrywanie nieuczciwych zasobów w sieci.
 
-\
-
+<br>
 
 VirusTotal to internetowa witryna internetowa, która zapewnia usługę skanowania antywirusowego plików przy użyciu wielu silników antywirusowych. Umożliwia użytkownikom przesyłanie plików lub podawanie adresów URL w celu przeskanowania ich za pomocą wielu silników antywirusowych i skanerów witryn w jednej operacji. Mogą nawet wprowadzać skróty plików, aby sprawdzić wyniki wcześniej przesłanych plików.
 
-\
-
+<br>
 
 Have I Been Pwned (HIBP) robi jedną rzecz; informuje, czy adres e-mail pojawił się w wycieku danych. Znalezienie czyjegoś adresu e-mail w wyciekłych danych wskazuje na wyciek prywatnych informacji i, co ważniejsze, haseł. Wielu użytkowników używa tego samego hasła na wielu platformach, jeśli jedna platforma zostanie naruszona, ich hasło na innych platformach również zostanie ujawnione. Rzeczywiście, hasła są zazwyczaj przechowywane w formacie zaszyfrowanym; jednak wiele haseł nie jest tak złożonych i można je odzyskać za pomocą różnych ataków
 
-\
-
+<br>
 
 Możemy myśleć o programie Common Vulnerabilities and Exposures (CVE) jako o słowniku luk w zabezpieczeniach. Zapewnia on standaryzowany identyfikator luk w zabezpieczeniach i problemów bezpieczeństwa w produktach programowych i sprzętowych. Każdej luce w zabezpieczeniach przypisuje się identyfikator CVE o standaryzowanym formacie, takim jak CVE-2024-29988. Ten unikalny identyfikator (CVE ID) zapewnia, że ​​wszyscy, od badaczy bezpieczeństwa po dostawców i specjalistów IT, odnoszą się do tej samej luki w zabezpieczeniach, w tym przypadku CVE-2024-29988.
 
-\
+<br>
 
-
-\
-
+<br>
 
 ### Exploit Database – potrzebna zgoda
 
 [https://www.exploit-db.com/](https://www.exploit-db.com/)
 
-\
-
+<br>
 
 GitHub, oparta na sieci platforma do tworzenia oprogramowania, może zawierać wiele narzędzi związanych z CVE, wraz z kodami proof-of-concept (PoC) i exploit.
 
-\
-
+<br>
 
 netstat \[-a] \[-b] \[-e] \[-n] \[-o] \[-p \<Protocol>] \[-r] \[-s] \[\<interval>]
 
@@ -158,25 +132,19 @@ netstat \[-a] \[-b] \[-e] \[-n] \[-o] \[-p \<Protocol>] \[-r] \[-s] \[\<interval
 -s Wyświetla statystyki według protokołu. Domyślnie statystyki są wyświetlane dla protokołów TCP, UDP, ICMP i IP. Jeśli protokół IPv6 jest zainstalowany, statystyki są wyświetlane dla protokołów TCP przez IPv6, UDP przez IPv6, ICMPv6 i IPv6. Parametr -p może być używany do określania zestawu protokołów.\
 -r Wyświetla zawartość tabeli routingu IP. Jest to równoważne poleceniu route print.\
 \<interval> Wyświetla ponownie wybrane informacje co interwał sekund. Naciśnij CTRL+C, aby zatrzymać ponowne wyświetlanie. Jeśli ten parametr zostanie pominięty, to polecenie wydrukuje wybrane informacje tylko raz.\
-/? Wyświetla pomoc w wierszu poleceń\
+/? Wyświetla pomoc w wierszu poleceń<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
-
-\
-
+<br>
 
 LINUX FUNDAMENTALS
 
-\
-
+<br>
 
 \> sudo apt update
 
@@ -194,8 +162,7 @@ find -name \*.txt
 
 \> grep „81.143.211.90 ” access.log
 
-\
-
+<br>
 
 & Ten operator umożliwia uruchamianie poleceń w tle terminala.\
 && Ten operator umożliwia łączenie wielu poleceń w jednym wierszu terminala.\
@@ -203,8 +170,7 @@ find -name \*.txt
 \>>\
 Ten operator wykonuje tę samą funkcję co operator >, ale dołącza dane wyjściowe zamiast je zastępować (co oznacza, że ​​nic nie jest nadpisywane).
 
-\
-
+<br>
 
 Echo hey > welcome
 
@@ -212,8 +178,7 @@ cat welcome
 
 hey
 
-\
-
+<br>
 
 echo hello » welcome
 
@@ -223,67 +188,47 @@ hey
 
 hello
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
+<br>
 
 ## Active Reconnaissance
 
-\
-
+<br>
 
 Istnieje również wiele dodatków do przeglądarek Firefox i Chrome, które mogą pomóc w testach penetracyjnych. Oto kilka przykładów:\
 \
@@ -291,26 +236,21 @@ FoxyProxy umożliwia szybką zmianę serwera proxy używanego do uzyskiwania dos
 User-Agent Switcher and Manager umożliwia udawanie, że uzyskujesz dostęp do strony internetowej z innego systemu operacyjnego lub innej przeglądarki internetowej. Innymi słowy, możesz udawać, że przeglądasz witrynę za pomocą iPhone'a, podczas gdy w rzeczywistości uzyskujesz do niej dostęp z przeglądarki Mozilla Firefox. Możesz pobrać User-Agent Switcher and Manager dla przeglądarki Firefox stąd.\
 Wappalyzer dostarcza informacji o technologiach używanych na odwiedzanych witrynach. Takie rozszerzenie jest przydatne, przede wszystkim gdy zbierasz wszystkie te informacje podczas przeglądania witryny jak każdy inny użytkownik. Zrzut ekranu Wappalyzera pokazano poniżej. Wappalyzer dla przeglądarki Firefox znajdziesz tutaj.
 
-\
+<br>
 
-
-\
-
+<br>
 
 On Linux and macOS, the command to use is `traceroute 10.10.123.13`, and on MS Windows, it is `tracert 10.10.123.13`. `traceroute`&#x20;
 
 \--- można sprawdzic adres routera w ostatnim hop-ie
 
-\
+<br>
 
-
-\
-
+<br>
 
 \> telnet 10.10.123.13 PORT
 
-\
-
+<br>
 
 GET / HTTP/1.1
 
@@ -328,14 +268,11 @@ Connection: close
 
 Content-Type: text/html; charset=iso-8859-1
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
+<br>
 
 NETCAT
 
@@ -343,14 +280,11 @@ NETCAT
 
 (port = 80)
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
+<br>
 
 | Command          | Example                                     |
 | ---------------- | ------------------------------------------- |
@@ -362,34 +296,24 @@ NETCAT
 | netcat as client | `nc 10.10.123.13 PORT_NUMBER`               |
 | netcat as server | `nc -lvnp PORT_NUMBER`                      |
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
-
-
-\
+<br>

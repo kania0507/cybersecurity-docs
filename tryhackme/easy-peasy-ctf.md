@@ -151,8 +151,7 @@ what is the password?\
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 What is the password to login to the machine via SSH?\
-<mark style="background-color:purple;">iconvertedmypasswordtobinary</mark>\
-
+<mark style="background-color:purple;">iconvertedmypasswordtobinary</mark><br>
 
 ```
 kania0507@fsociety:~/CTF/TryHackme/Easy Peasy$ ssh -p 6498 boring@10.10.17.11 
@@ -181,8 +180,7 @@ boring@kral4-PC:~$
 ```
 
 What is the user flag?\
-<mark style="background-color:purple;">flag{n0wits33msn0rm4l}</mark>\
-
+<mark style="background-color:purple;">flag{n0wits33msn0rm4l}</mark><br>
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 

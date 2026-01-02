@@ -2,8 +2,7 @@
 
 Etyczny hacking – wykorzystanie wiedzy z zakresu cyberbezpieczeństwa w celu zidentyfikowania i rozwiązania potencjalnych luk w systemach komputerowych, sieciach, aplikacjach w legalny sposób (za zgodą). Celem jest lepsze zabezpieczenie systemu przed atakami.
 
-\
-
+<br>
 
 Testy penetracyjne (pentesty) – kontrolowane próby złamania zabezpieczeń w systemach, sieciach lub aplikacjach. Ocena poziomu bezpieczeństwa oraz identyfikacja możliwych zagrożeń (luk bezp).
 
@@ -31,13 +30,11 @@ uzyskanie dostępu
 
 LINUX TSURUGI (Ubuntu) – zawiera programy do odzyskiwania danych, analizy plików (na NTFS, FAT), badania rejestrów, OSINT, narzędzia do ekstrakcji i analizy metadanych plików;
 
-narzędzie do tworzenia raportów; bezpieczne i prywatne;\
-
+narzędzie do tworzenia raportów; bezpieczne i prywatne;<br>
 
 PARROT OS – lekki; edycje: securitu, home, cloud; wiele narzędzi do testów penetracyjnych, analizy sieci, łamanie haseł itp.
 
-narzędzia do zachowania prywatności i anonimowości w sieci;\
-
+narzędzia do zachowania prywatności i anonimowości w sieci;<br>
 
 KALI LINUX (debian) – do testowania zabezpieczeń SO, aplikacji, sieci w sposób legalny;
 
@@ -51,36 +48,29 @@ Oprogramowanie wirtualizacyjne typu opensource:
 
 \- Oracle VirtualBox
 
-\- Microsoft Hyper-v\
-
+\- Microsoft Hyper-v<br>
 
 Podstawowe komendy linuxa:
 
-\> sudo apt update\
-
+\> sudo apt update<br>
 
 \> touch plik.txt
 
 \> cat > plik2.txt
 
-\
-
+<br>
 
 \> nano plik.txt
 
-\
+<br>
 
-
-\> cat plik.txt plik2.txt > all.txt\
-
+\> cat plik.txt plik2.txt > all.txt<br>
 
 \> rm
 
-\> rmdir\
+\> rmdir<br>
 
-
-\> passwd\
-
+\> passwd<br>
 
 \> ifconfig
 
@@ -98,8 +88,7 @@ Sumy kontrolne:
 
 \> chmod 777 nowy.txt
 
-\> chmod o-x nowy.txt (usuwanie uprawnien)\
-
+\> chmod o-x nowy.txt (usuwanie uprawnien)<br>
 
 **PODSTAWY SIECI KOMPUTEROWYCH**
 
@@ -113,15 +102,13 @@ WAN – sieci szerokopasmowe, duże obszary geograficzne;
 
 PAN – sieci osobiste (telefon + laptop)
 
-\
-
+<br>
 
 **TOPOLOGIE**: topologia gwiazdy (urządzenia podłączone do jednego huba), magistrali (po kablu, awaria zakłóca całą sieć), pierścienia (urządzenie połączone z 2 sąsiednimi urządzeniami), zamknięta, jednokierunkowa (awaria = przerwanie komunikacji);
 
 siatkowa (połączenie każde z każdym, niezawodna, kosztowna, skomplikowana w większych sieciach); hubrydowa; drzewa (gwiazda + magistrala; większe sieci – hierarchiczne struktury);
 
-\
-
+<br>
 
 **TCP/IP** – model protokołów, sieciowy, praktyczny, 4 warstwy:
 
@@ -133,11 +120,9 @@ internetowa – routowanie danych, zarządzanie trasą, przetwarza adresy IP, by
 
 dostępu do sieci – przekazuje dane przez fizyczne połączenia między urządzeniami (karty sieciowe lub modemy), przypisuje adresy MAC do otrzymanych pakietów (ramki), adresy MAC indentyfikują urządzenia w sieci; warstwa kontroluje sposób w jaki dane są przekazywane przez fizyczne media transmisyjne jak światłowody, fale radiowe – protokoły: Ethernet;
 
-\
+<br>
 
-
-\
-
+<br>
 
 **ISO/OSI** – model abstrakcyjny, opisujący architekturę sieci komputerowych, służy do projektowania sieci; 7warstw:
 
@@ -173,10 +158,8 @@ fizyczna – fizyczne połączenie i transmisja danych przez medium transmisyjne
 
 \- fizyczna - sniffing
 
-\
+<br>
 
+<br>
 
-\
-
-
-\
+<br>

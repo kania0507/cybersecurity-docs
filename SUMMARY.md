@@ -61,3 +61,7 @@
 * [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
 * [Zagrożenia związane z bezpieczeństwem IT](zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
 * [Model TCP/IP i OSI, podstawowe protokoły sieciowe oraz bezpieczeństwo sieci](model-tcp-ip-i-osi-podstawowe-protokoly-sieciowe-oraz-bezpieczenstwo-sieci.md)
+
+## 30days-of-web-app-pentesting-and-security
+
+* [Lab: Source code disclosure via backup files](30days-of-web-app-pentesting-and-security/lab-source-code-disclosure-via-backup-files.md)
