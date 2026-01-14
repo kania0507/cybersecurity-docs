@@ -65,3 +65,8 @@
 ## 30days-of-web-app-pentesting-and-security
 
 * [Lab: Source code disclosure via backup files](30days-of-web-app-pentesting-and-security/lab-source-code-disclosure-via-backup-files.md)
+* [Lab: HTTP & Attack Surface](30days-of-web-app-pentesting-and-security/lab-http-and-attack-surface.md)
+
+***
+
+* [Lab: Broken access control - cookie manipulation](lab-broken-access-control-cookie-manipulation.md)
