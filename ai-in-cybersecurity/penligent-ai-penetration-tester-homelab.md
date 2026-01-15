@@ -149,8 +149,6 @@ ssh user@10.10.10.10
 * zapisuje „weak configuration” jako finding
 * nie brute-forcuje bez decyzji użytkownika
 
-***
-
 ### 5. Testy uwierzytelniania (kontrolowane)
 
 #### Zadanie w Penligent
@@ -254,7 +252,7 @@ Z Penligent:
 2. `DVWA Security → Low`
 3. `Setup → Create / Reset Database`&#x20;
 
-##
+## PENTEST
 
 ## CEL PENTESTU (scope)
 
