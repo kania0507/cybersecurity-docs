@@ -70,3 +70,7 @@
 ***
 
 * [Lab: Broken access control - cookie manipulation](lab-broken-access-control-cookie-manipulation.md)
+
+## AI in cybersecurity
+
+* [Penligent - AI Penetration tester - homelab](ai-in-cybersecurity/penligent-ai-penetration-tester-homelab.md)
