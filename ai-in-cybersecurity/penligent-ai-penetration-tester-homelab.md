@@ -571,3 +571,8 @@ Brak centralnej walidacji danych wejściowych zwiększa ryzyko wielu klas atakó
 * _OWASP ASVS_
 * _NIST Secure Software Development Framework (SSDF)_
 
+Przykładowy znalezionych podatności i raportu:
+
+<figure><img src="../.gitbook/assets/penai1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/panai2.png" alt=""><figcaption></figcaption></figure>
