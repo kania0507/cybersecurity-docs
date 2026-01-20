@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Cyberbezpieczeństwo](README.md)
-* [Etyczny hacking](<README (1).md>)
 * [Free resources - links](free-resources-links.md)
 * [OSINT](osint.md)
 
@@ -75,3 +74,4 @@
 * [Cryptographic](others/cryptographic.md)
 * [AppSec - questions & answers](others/appsec-questions-and-answers.md)
 * [SOC - questions & answers](others/soc-questions-and-answers.md)
+* [Etyczny hacking](others/readme.md)
