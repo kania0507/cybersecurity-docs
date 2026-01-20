@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Free resources - links](README.md)
-
 ## CompTia Sec+
 
-* [CompTia Sec+ treats, atacks and vulnerabilities](comptia-sec+/comptia-sec+-treats-atacks-and-vulnerabilities.md)
+* [CompTia Sec+ treats, atacks and vulnerabilities](README.md)
 * [CompTia Sec+ prep](comptia-sec+/comptia-sec+-prep.md)
 * [CompTia Sec+ acronims](comptia-sec+/comptia-sec+-acronims.md)
 * [CompTia Sec+ prep - my quiz](comptia-sec+/comptia-sec+-prep-my-quiz.md)
@@ -75,3 +73,4 @@
 * [Etyczny hacking](others-basics/readme.md)
 * [OSINT](others-basics/osint.md)
 * [Cyberbezpieczeństwo](others-basics/cyberbezpieczenstwo.md)
+* [Free resources - links - tools - courses](others-basics/free-resources-links-tools-courses.md)
