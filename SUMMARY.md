@@ -74,3 +74,7 @@
 ## AI in cybersecurity
 
 * [Penligent - AI Penetration tester - homelab](ai-in-cybersecurity/penligent-ai-penetration-tester-homelab.md)
+
+## Anatomia cyberataków
+
+* [in progress...](anatomia-cyberatakow/in-progress....md)
