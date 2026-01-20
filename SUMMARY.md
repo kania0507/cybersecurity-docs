@@ -2,7 +2,6 @@
 
 * [Cyberbezpieczeństwo](README.md)
 * [Free resources - links](free-resources-links.md)
-* [OSINT](osint.md)
 
 ## CompTia Sec+
 
@@ -64,14 +63,15 @@
 
 * [in progress...](anatomia-cyberatakow/in-progress....md)
 
-## Others
+## Others - Basics
 
-* [Model TCP/IP i OSI, podstawowe protokoły sieciowe oraz bezpieczeństwo sieci](others/model-tcp-ip-i-osi-podstawowe-protokoly-sieciowe-oraz-bezpieczenstwo-sieci.md)
-* [NTP vs NTS](others/ntp-vs-nts.md)
-* [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](others/naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
-* [Zagrożenia związane z bezpieczeństwem IT](others/zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
-* [Webscrapping](others/webscrapping.md)
-* [Cryptographic](others/cryptographic.md)
-* [AppSec - questions & answers](others/appsec-questions-and-answers.md)
-* [SOC - questions & answers](others/soc-questions-and-answers.md)
-* [Etyczny hacking](others/readme.md)
+* [Model TCP/IP i OSI, podstawowe protokoły sieciowe oraz bezpieczeństwo sieci](others-basics/model-tcp-ip-i-osi-podstawowe-protokoly-sieciowe-oraz-bezpieczenstwo-sieci.md)
+* [NTP vs NTS](others-basics/ntp-vs-nts.md)
+* [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](others-basics/naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
+* [Zagrożenia związane z bezpieczeństwem IT](others-basics/zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
+* [Webscrapping](others-basics/webscrapping.md)
+* [Cryptographic](others-basics/cryptographic.md)
+* [AppSec - questions & answers](others-basics/appsec-questions-and-answers.md)
+* [SOC - questions & answers](others-basics/soc-questions-and-answers.md)
+* [Etyczny hacking](others-basics/readme.md)
+* [OSINT](others-basics/osint.md)
