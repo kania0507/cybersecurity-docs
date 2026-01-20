@@ -56,9 +56,9 @@
 
 * [Penligent - AI Penetration tester - homelab](ai-in-cybersecurity/penligent-ai-penetration-tester-homelab.md)
 
-## Anatomia cyberataków
+## Anatomy of a Cyberattacks
 
-* [in progress...](anatomia-cyberatakow/in-progress....md)
+* [in progress...](anatomy-of-a-cyberattacks/in-progress....md)
 
 ## Others - Basics
 
