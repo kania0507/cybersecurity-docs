@@ -4,10 +4,6 @@
 * [Etyczny hacking](<README (1).md>)
 * [Free resources - links](free-resources-links.md)
 * [OSINT](osint.md)
-* [Webscrapping](webscrapping.md)
-* [Cryptographic](cryptographic.md)
-* [AppSec - questions & answers](<README (2).md>)
-* [SOC - questions & answers](soc-questions-and-answers.md)
 
 ## CompTia Sec+
 
@@ -75,3 +71,7 @@
 * [NTP vs NTS](others/ntp-vs-nts.md)
 * [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](others/naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
 * [Zagrożenia związane z bezpieczeństwem IT](others/zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
+* [Webscrapping](others/webscrapping.md)
+* [Cryptographic](others/cryptographic.md)
+* [AppSec - questions & answers](others/appsec-questions-and-answers.md)
+* [SOC - questions & answers](others/soc-questions-and-answers.md)
