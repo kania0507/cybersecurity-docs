@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Cyberbezpieczeństwo](README.md)
-* [Free resources - links](free-resources-links.md)
+* [Free resources - links](README.md)
 
 ## CompTia Sec+
 
@@ -75,3 +74,4 @@
 * [SOC - questions & answers](others-basics/soc-questions-and-answers.md)
 * [Etyczny hacking](others-basics/readme.md)
 * [OSINT](others-basics/osint.md)
+* [Cyberbezpieczeństwo](others-basics/cyberbezpieczenstwo.md)
