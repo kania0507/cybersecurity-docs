@@ -52,24 +52,14 @@
 * [LAB: Burp Suite - Web Security Academy](burp-suite-academy/lab-burp-suite-web-security-academy.md)
 * [Authentication vulnerabilities - Lab: Username enumeration via different responses](burp-suite-academy/authentication-vulnerabilities-lab-username-enumeration-via-different-responses.md)
 * [Lab: Burp Suite - Unprotected admin functionality with unpredictable URL](burp-suite-academy/lab-burp-suite-unprotected-admin-functionality-with-unpredictable-url.md)
-
-***
-
-* [Authentication vulnerabilities Lab: Username enumeration via subtly different responses](authentication-vulnerabilities-lab-username-enumeration-via-subtly-different-responses.md)
-* [Lab: Burp Suite  - User role controlled by request parameter](lab-burp-suite-user-role-controlled-by-request-parameter.md)
-* [NTP vs NTS](ntp-vs-nts.md)
-* [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
-* [Zagrożenia związane z bezpieczeństwem IT](zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
-* [Model TCP/IP i OSI, podstawowe protokoły sieciowe oraz bezpieczeństwo sieci](model-tcp-ip-i-osi-podstawowe-protokoly-sieciowe-oraz-bezpieczenstwo-sieci.md)
+* [Authentication vulnerabilities Lab: Username enumeration via subtly different responses](burp-suite-academy/authentication-vulnerabilities-lab-username-enumeration-via-subtly-different-responses.md)
+* [Lab: Burp Suite  - User role controlled by request parameter](burp-suite-academy/lab-burp-suite-user-role-controlled-by-request-parameter.md)
+* [Lab: Broken access control - cookie manipulation](burp-suite-academy/lab-broken-access-control-cookie-manipulation.md)
 
 ## 30days-of-web-app-pentesting-and-security
 
 * [Lab: Source code disclosure via backup files](30days-of-web-app-pentesting-and-security/lab-source-code-disclosure-via-backup-files.md)
 * [Lab: HTTP & Attack Surface](30days-of-web-app-pentesting-and-security/lab-http-and-attack-surface.md)
-
-***
-
-* [Lab: Broken access control - cookie manipulation](lab-broken-access-control-cookie-manipulation.md)
 
 ## AI in cybersecurity
 
@@ -78,3 +68,10 @@
 ## Anatomia cyberataków
 
 * [in progress...](anatomia-cyberatakow/in-progress....md)
+
+## Others
+
+* [Model TCP/IP i OSI, podstawowe protokoły sieciowe oraz bezpieczeństwo sieci](others/model-tcp-ip-i-osi-podstawowe-protokoly-sieciowe-oraz-bezpieczenstwo-sieci.md)
+* [NTP vs NTS](others/ntp-vs-nts.md)
+* [Nagłówki bezpieczeństwa, mechanizmy przeglądarkowe](others/naglowki-bezpieczenstwa-mechanizmy-przegladarkowe.md)
+* [Zagrożenia związane z bezpieczeństwem IT](others/zagrozenia-zwiazane-z-bezpieczenstwem-it.md)
