@@ -37,7 +37,7 @@ Zidentyfikuj elementy o najwyższym ryzyku i wartości operacyjnej.
 Threat hunting jest procesem kontekstowym. Anomalia na serwerze testowym ≠ anomalia na kontrolerze domeny.
 
 Źródło:\
-[https://www.trendmicro.com/pl\_pl/what-is/threat-detection/threat-hunting.html](https://www.trendmicro.com/pl_pl/what-is/threat-detection/threat-hunting.html?utm_source=chatgpt.com)
+[https://www.trendmicro.com/pl\_pl/what-is/threat-detection/threat-hunting.html](https://www.trendmicro.com/pl_pl/what-is/threat-detection/threat-hunting.html)
 
 #### 1.2 Włącz logowanie i widoczność
 
@@ -61,7 +61,7 @@ Zapewnij pełną telemetrykę z kluczowych warstw.
 Threat hunting bez danych to zgadywanie.
 
 Źródło:\
-[https://www.trendmicro.com/pl\_pl/what-is/threat-detection/threat-hunting.html](https://www.trendmicro.com/pl_pl/what-is/threat-detection/threat-hunting.html?utm_source=chatgpt.com)
+[https://www.trendmicro.com/pl\_pl/what-is/threat-detection/threat-hunting.html](https://www.trendmicro.com/pl_pl/what-is/threat-detection/threat-hunting.html)
 
 #### 1.3 Zbuduj baseline (normalny profil)
 
@@ -86,7 +86,7 @@ Zdefiniuj, jak wygląda normalne zachowanie środowiska.
 Threat hunting = analiza odchyleń od normy.
 
 Źródło:\
-[https://www.cycognito.com/learn/threat-hunting/](https://www.cycognito.com/learn/threat-hunting/?utm_source=chatgpt.com)
+[https://www.cycognito.com/learn/threat-hunting/](https://www.cycognito.com/learn/threat-hunting/)
 
 ### 2. Formułowanie hipotez (kluczowy krok)
 
