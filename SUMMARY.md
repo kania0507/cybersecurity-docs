@@ -78,3 +78,4 @@
 ***
 
 * [Threat Hunting – praktyczny przewodnik wykrywania zagrożeń](threat-hunting-praktyczny-przewodnik-wykrywania-zagrozen.md)
+* [PORTY](porty.md)
