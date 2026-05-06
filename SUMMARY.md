@@ -79,4 +79,5 @@
 
 * [Threat Hunting – praktyczny przewodnik wykrywania zagrożeń](threat-hunting-praktyczny-przewodnik-wykrywania-zagrozen.md)
 * [PORTY](porty.md)
+* [Bezpieczeństwo w chmurze - w pytaniach i odpowiedziach](bezpieczenstwo-w-chmurze-w-pytaniach-i-odpowiedziach.md)
 * [CHECKLISTA BEZPIECZEŃSTWA SERWERA](checklista-bezpieczenstwa-serwera.md)
