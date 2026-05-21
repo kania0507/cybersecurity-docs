@@ -1,4 +1,4 @@
-# Copy of CompTia Security+ prep - my quiz 4 PL
+# CompTia Security+ prep - my quiz 4 PL
 
 ## Security+ SY0-701 Mock Exam (40 pytań)
 
