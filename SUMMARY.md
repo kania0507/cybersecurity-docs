@@ -8,6 +8,7 @@
 * [CompTia Sec+ prep - my quiz](comptia-sec+/comptia-sec+-prep-my-quiz.md)
 * [CompTia Sec+ prep - my quiz 2](comptia-sec+/comptia-sec+-prep-my-quiz-2.md)
 * [CompTia Security+ prep - my quiz 3](comptia-sec+/comptia-security+-prep-my-quiz-3.md)
+* [Copy of CompTia Security+ prep - my quiz 4 PL](comptia-sec+/copy-of-comptia-security+-prep-my-quiz-4-pl.md)
 
 ## LABS
 
