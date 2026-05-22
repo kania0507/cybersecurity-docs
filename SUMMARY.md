@@ -55,9 +55,7 @@
 
 ## 30 days of DevSecOps
 
-***
-
-* [Ogólnie](ogolnie.md)
+* [Ogólnie](30-days-of-devsecops/ogolnie.md)
 
 ## AI in cybersecurity
 
