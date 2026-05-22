@@ -56,6 +56,7 @@
 ## 30 days of DevSecOps
 
 * [Ogólnie](30-days-of-devsecops/ogolnie.md)
+* [Dzień 1 - linux i sieci](30-days-of-devsecops/dzien-1-linux-i-sieci.md)
 
 ## AI in cybersecurity
 
