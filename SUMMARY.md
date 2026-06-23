@@ -38,6 +38,7 @@
 * [Pentesting Fundamentals](tryhackme/pentesting-fundamentals.md)
 * [TryHackMe Walkthrough: Intro to SIEM](tryhackme/tryhackme-walkthrough-intro-to-siem.md)
 * [Easy peasy CTF](tryhackme/easy-peasy-ctf.md)
+* [Juicy Details (TryHackMe)](tryhackme/juicy-details-tryhackme.md)
 
 ## Burp Suite Academy
 
